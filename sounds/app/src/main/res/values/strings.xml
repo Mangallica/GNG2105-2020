@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">20QProjet</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">home</string>
+    <string name="chat">Chat</string>
+    <string name="relaxation">Relaxation</string>
+    <string name="profile">Profile</string>
+    <string-array name="category">
+        <item> Patient </item>
+        <item> Employer </item>
+        <item> Helper </item>
+    </string-array>
+</resources>

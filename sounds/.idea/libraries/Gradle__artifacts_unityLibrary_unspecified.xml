@@ -1,10 +1,10 @@
 <component name="libraryTable">
   <library name="Gradle: artifacts:unityLibrary:unspecified">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/unityLibrary/build/.transforms/5e745788dce1fe4694a664e342c747c3/jetified-unityLibrary/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/unityLibrary/build/.transforms/5e745788dce1fe4694a664e342c747c3/jetified-unityLibrary/res" />
-      <root url="file://$PROJECT_DIR$/unityLibrary/build/.transforms/5e745788dce1fe4694a664e342c747c3/jetified-unityLibrary/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/unityLibrary/build/.transforms/5e745788dce1fe4694a664e342c747c3/jetified-unityLibrary/jars/libs/unity-classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/unityLibrary/build/.transforms/6fa254f18eac169fe55372a8a18258a6/jetified-unityLibrary/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/unityLibrary/build/.transforms/6fa254f18eac169fe55372a8a18258a6/jetified-unityLibrary/res" />
+      <root url="jar://$PROJECT_DIR$/unityLibrary/build/.transforms/6fa254f18eac169fe55372a8a18258a6/jetified-unityLibrary/jars/libs/unity-classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/unityLibrary/build/.transforms/6fa254f18eac169fe55372a8a18258a6/jetified-unityLibrary/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

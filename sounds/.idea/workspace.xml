@@ -18,7 +18,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[R38MA08E95B]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -46,6 +46,7 @@
       <list>
         <option value="navigationResourceFile" />
         <option value="resourceFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -55,8 +56,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="galaxy_s8_API_28" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-10-28T09:21:23.523Z" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_API_23" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-11-04T07:22:14.996Z" />
     <property name="ResourceManagerPrefKey.ResourceType" value="DRAWABLE" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../gun models/soundgame/unityLibrary/build/outputs/aar/unityLibrary.aar" />
@@ -154,14 +155,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1604450220776">
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1604476481251">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1604450220776" />
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1604476481251" />
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604436711613">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1604436711613" />
+    <state x="-73" y="229" width="1182" height="544" key="AVDManager" timestamp="1604473976934">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-73" y="229" width="1182" height="544" key="AVDManager/0.0.1366.728@0.0.1366.728" timestamp="1604473976934" />
     <state x="263" y="119" key="AndroidCreateResourceFileDialog" timestamp="1604434905767">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -170,30 +175,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="529" y="154" key="AndroidCreateXmlResourceDialog/0.0.1366.728@0.0.1366.728" timestamp="1604447246124" />
-    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1604450797336">
+    <state width="1323" height="163" key="GridCell.Tab.0.bottom" timestamp="1604482668456">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604450797336" />
-    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1604450797336">
+    <state width="1323" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604482668456" />
+    <state width="1323" height="163" key="GridCell.Tab.0.center" timestamp="1604482668454">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604450797336" />
-    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1604450797336">
+    <state width="1323" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604482668454" />
+    <state width="1323" height="163" key="GridCell.Tab.0.left" timestamp="1604482668453">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604450797336" />
-    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1604450797336">
+    <state width="1323" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604482668453" />
+    <state width="1323" height="163" key="GridCell.Tab.0.right" timestamp="1604482668455">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604450797336" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1604450542974">
+    <state width="1323" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604482668455" />
+    <state x="191" y="9" key="SettingsEditor" timestamp="1604473769831">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1604450542974" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1604449225070">
+    <state x="191" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604473769831" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1604481533236">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1604449225070" />
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1604481533236" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1604481031462">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1604481031462" />
   </component>
   <component name="masterDetails">
     <states>

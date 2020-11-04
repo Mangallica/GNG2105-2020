@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "341567040339",
+    "firebase_url": "https://authentication20q.firebaseio.com",
+    "project_id": "authentication20q",
+    "storage_bucket": "authentication20q.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341567040339:android:f2afeeeb394dc35e7ecfa6",
+        "android_client_info": {
+          "package_name": "com.example.a20qprojet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341567040339-rm889q9a0iabq0qbhm053lr694eokmqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKzRAwTzT9Mfb9VoghXsTbxKwc1NyXges"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341567040339-rm889q9a0iabq0qbhm053lr694eokmqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

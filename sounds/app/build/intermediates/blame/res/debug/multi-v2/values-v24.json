@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Leo\\.gradle\\caches\\transforms-2\\files-2.1\\8342feb067e182c315ec1fd569580dc6\\appcompat-1.0.2\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Leo\\.gradle\\caches\\transforms-2\\files-2.1\\aa90288b74fbdf78b6978c874935ef3f\\appcompat-1.0.2\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Leo\\.gradle\\caches\\transforms-2\\files-2.1\\fc5fabecf1a526aeaf425c2cf3eaa782\\media-1.0.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Leo\\.gradle\\caches\\transforms-2\\files-2.1\\140ebd15b226377d09cedb90cd407178\\media-1.0.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

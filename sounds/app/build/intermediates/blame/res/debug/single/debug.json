@@ -12,12 +12,12 @@
         "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
         "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_person_24.xml.flat",
@@ -28,16 +28,16 @@
         "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\layout\\login_activity.xml"
     },
     {
-        "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
-        "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\layout\\activity_home.xml"
+        "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
         "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_relaxation.xml.flat",
         "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\layout\\fragment_relaxation.xml"
     },
     {
-        "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\layout\\activity_home.xml"
     },
     {
         "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
