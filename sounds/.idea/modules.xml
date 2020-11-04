@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/20QProjet.iml" filepath="$PROJECT_DIR$/20QProjet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/20QProjet.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/20QProjet.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher-debug/20QProjet.launcher-debug.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher-debug/20QProjet.launcher-debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/20QProjet.unityLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/20QProjet.unityLibrary.iml" />
+    </modules>
+  </component>
+</project>
