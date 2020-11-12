@@ -1,19 +1,24 @@
 package com.example.a20qprojet;
 
+import android.content.Intent;
 import android.os.Bundle;
 
+import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.*;
 
 /**
  * A simple {@link Fragment} subclass.
  * Use the {@link RelaxationFragment#newInstance} factory method to
  * create an instance of this fragment.
  */
-public class RelaxationFragment extends Fragment {
+public class RelaxationFragment extends Fragment implements View.OnClickListener {
+
+    private ImageView app1,app2;
 
     // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
@@ -46,6 +51,7 @@ public class RelaxationFragment extends Fragment {
         return fragment;
     }
 
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -53,12 +59,37 @@ public class RelaxationFragment extends Fragment {
             mParam1 = getArguments().getString(ARG_PARAM1);
             mParam2 = getArguments().getString(ARG_PARAM2);
         }
+
+
+
     }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
+        View view=inflater.inflate(R.layout.fragment_relaxation, container, false);
+        app1= view.findViewById(R.id.imageView3);
+        app2= view.findViewById(R.id.imageView4);
+
+        app2.setOnClickListener((View.OnClickListener) this);
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_relaxation, container, false);
+        return view;
+    }
+
+
+
+    @Override
+    public void onClick(View view) {
+        switch (view.getId()){
+            case R.id.imageView3:
+                //do nothing
+                break;
+
+            case R.id.imageView4:
+                Intent i = new Intent(RelaxationFragment.this.getActivity(),UnityHolderActivity.class);
+                startActivity(i);
+                break;
+
+        }
     }
 }

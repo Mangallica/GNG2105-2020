@@ -12,23 +12,25 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="#FF1493"
-        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:menu="@menu/bottom_menu">
+        app:menu="@menu/bottom_menu"
+        tools:layout_editor_absoluteY="-6dp">
 
     </com.google.android.material.bottomnavigation.BottomNavigationView>
 
     <fragment
         android:id="@+id/fragment5"
         android:name="androidx.navigation.fragment.NavHostFragment"
-        android:layout_width="407dp"
-        android:layout_height="678dp"
-        android:layout_marginBottom="55dp"
+        android:layout_width="410dp"
+        android:layout_height="605dp"
         app:defaultNavHost="true"
-        app:layout_constraintBottom_toBottomOf="@+id/bottomNavigationView"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bottomNavigationView"
         app:navGraph="@navigation/nav" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

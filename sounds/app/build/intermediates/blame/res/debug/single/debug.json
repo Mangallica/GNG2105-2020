@@ -1,7 +1,19 @@
 [
     {
+        "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_heart_431.xml.flat",
+        "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\heart_431.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_heart_431.png.flat",
+        "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\heart_431.png"
+    },
+    {
         "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
         "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-small_heart_431__1_.png.flat",
+        "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\drawable-small\\heart_431__1_.png"
     },
     {
         "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
@@ -12,12 +24,20 @@
         "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_heart_431__1_.png.flat",
+        "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\drawable\\heart_431__1_.png"
+    },
+    {
         "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
         "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\layout\\fragment_profile.xml"
     },
     {
         "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_free_heart_icon_431_thumb.png.flat",
+        "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\drawable\\free_heart_icon_431_thumb.png"
     },
     {
         "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_person_24.xml.flat",
@@ -44,12 +64,20 @@
         "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
+        "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_heart_431.png.flat",
+        "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\heart_431.png"
+    },
+    {
         "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_heart_431.png.flat",
+        "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\heart_431.png"
     },
     {
         "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -70,6 +98,10 @@
     {
         "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_menu.xml.flat",
         "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_heart_431.png.flat",
+        "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\heart_431.png"
     },
     {
         "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
@@ -100,12 +132,24 @@
         "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\drawable\\ic_baseline_sms_24.xml"
     },
     {
+        "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_heart_431.png.flat",
+        "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\heart_431.png"
+    },
+    {
         "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav.xml.flat",
         "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\navigation\\nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_heart_431.png.flat",
+        "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\heart_431.png"
+    },
+    {
+        "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pngfind_com_sound_wave_transparent_png_924708.png.flat",
+        "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\drawable\\pngfind_com_sound_wave_transparent_png_924708.png"
     },
     {
         "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_favorite_24.xml.flat",

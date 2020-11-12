@@ -1096,8 +1096,11 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable free_heart_icon_431_thumb
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
+drawable heart_431
+drawable heart_431__1_
 drawable ic_baseline_favorite_24
 drawable ic_baseline_home_24
 drawable ic_baseline_person_24
@@ -1122,6 +1125,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable pngfind_com_sound_wave_transparent_png_924708
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
@@ -1204,6 +1208,8 @@ id beginning
 id blocking
 id bottom
 id bottomNavigationView
+id button
+id button2
 id buttonPanel
 id cancel_action
 id center
@@ -1226,6 +1232,7 @@ id customPanel
 id dark
 id decor_content_parent
 id default_activity_button
+id descriptionjob
 id design_bottom_sheet
 id design_menu_item_action_area
 id design_menu_item_action_area_stub
@@ -1235,6 +1242,9 @@ id dialog_button
 id dimensions
 id direct
 id disableHome
+id divider
+id editTextTextMultiLine
+id editTextTextMultiLine2
 id edit_query
 id emailField
 id end
@@ -1259,6 +1269,7 @@ id gone
 id group_divider
 id groups
 id home
+id home2
 id homeAsUp
 id homeFragment
 id horizontal
@@ -1267,6 +1278,11 @@ id icon_group
 id icon_only
 id ifRoom
 id image
+id imageButton2
+id imageView
+id imageView2
+id imageView3
+id imageView4
 id info
 id invisible
 id italic
@@ -1307,12 +1323,15 @@ id parent_matrix
 id passwordField
 id percent
 id pin
+id profil2
 id profileFragment
+id profilentreprise
 id progressBar
 id progressBar2
 id progress_circular
 id progress_horizontal
 id radio
+id relaxation2
 id relaxationFragment
 id right
 id right_icon
@@ -1375,10 +1394,11 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textView
-id textView2
-id textView3
+id textView10
 id textView4
-id textView5
+id textView6
+id textView7
+id textView9
 id text_input_password_toggle
 id textinput_counter
 id textinput_error
