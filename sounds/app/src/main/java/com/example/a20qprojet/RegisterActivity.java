@@ -32,6 +32,8 @@ public class RegisterActivity extends AppCompatActivity implements AdapterView.O
     private EditText firstName,lastName,password,confirmPassword,emailAddress;
     private Button registerUser;
     private ProgressBar progressBar;
+    private String uClass = "";
+    Spinner spinner;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -49,18 +51,18 @@ public class RegisterActivity extends AppCompatActivity implements AdapterView.O
 
          progressBar = findViewById(R.id.progressBar);
 
-        Spinner spinner = findViewById(R.id.spinner);
-        ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this,R.array.category, android.R.layout.simple_spinner_item);
-        adapter.setDropDownViewResource(android.R.layout.simple_dropdown_item_1line);
-        spinner.setAdapter(adapter);
-        spinner.setOnItemSelectedListener(this);
+         spinner= findViewById(R.id.spinner);
+         ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this,R.array.category, android.R.layout.simple_spinner_item);
+         adapter.setDropDownViewResource(android.R.layout.simple_dropdown_item_1line);
+         spinner.setAdapter(adapter);
+         spinner.setOnItemSelectedListener(this);
 
     }
 
     @Override
     public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
         String text= adapterView.getItemAtPosition(i).toString();
-
+        uClass=text;
     }
 
     @Override
@@ -124,6 +126,10 @@ public class RegisterActivity extends AppCompatActivity implements AdapterView.O
             confirmPassword.requestFocus();
             return;
         }
+        if(uClass.length()==0){
+            spinner.requestFocus();
+            Toast.makeText(RegisterActivity.this,"Select a user type",Toast.LENGTH_LONG).show();
+        }
 
         progressBar.setVisibility(View.VISIBLE);
         mAuth.createUserWithEmailAndPassword(email,pwd)
@@ -132,7 +138,7 @@ public class RegisterActivity extends AppCompatActivity implements AdapterView.O
                     public void onComplete(@NonNull Task<AuthResult> task) {
                         if(task.isSuccessful()){
 
-                            GenericUser user = new GenericUser(lName,fName,email);
+                            GenericUser user = new GenericUser(lName,fName,email,uClass);
                             FirebaseDatabase.getInstance().getReference("Users").
                                 child(FirebaseAuth.getInstance().getCurrentUser().getUid())
                                     .setValue(user).addOnCompleteListener(new OnCompleteListener<Void>() {

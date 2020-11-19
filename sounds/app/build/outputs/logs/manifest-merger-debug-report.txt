@@ -10,6 +10,7 @@ MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Leo\.gradle\caches\tra
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\da0c71f956c038bbd89c67c686cf230c\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\368aff212683bf59da07e94158258f2e\jetified-firebase-auth-19.2.0\AndroidManifest.xml:17:1-42:12
 MERGED from [com.google.firebase:firebase-database:19.5.1] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\81b7590cefda853e029283e2e3d7692a\jetified-firebase-database-19.5.1\AndroidManifest.xml:15:1-38:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\d8ad4ef4d06e94d8d0617e17067b92d3\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
 MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\ccac18dfb3330bbc3a8a6e9097be97aa\gridlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [:launcher-debug] C:\Users\Leo\Desktop\sounds\launcher-debug\build\.transforms\614b7185c6d62b36d4f1d361b57046d3\jetified-launcher-debug\AndroidManifest.xml:3:1-25:12
 MERGED from [:unityLibrary] C:\Users\Leo\Desktop\sounds\unityLibrary\build\.transforms\6fa254f18eac169fe55372a8a18258a6\jetified-unityLibrary\AndroidManifest.xml:3:1-51:12
@@ -25,6 +26,8 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\ea9cc20ebae81b7ab7bc159a2be6d248\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\a916a84d59d8283db03c19ee1974ac39\jetified-firebase-common-19.3.1\AndroidManifest.xml:15:1-40:12
 MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\701e20cea4d77973874e8cb8b09efa8d\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\ee66278ecf7d603b027229c469589d71\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\c8cd6203c62410599bc68529e89b502d\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\f9c1b7e56255e65704f999752fcd5a74\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.media:media:1.0.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\140ebd15b226377d09cedb90cd407178\media-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\51391b9a246ce7df557e09c386256de2\jetified-firebase-database-collection-17.0.1\AndroidManifest.xml:2:1-9:12
@@ -85,6 +88,8 @@ MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Leo\.gradle\cach
 MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\368aff212683bf59da07e94158258f2e\jetified-firebase-auth-19.2.0\AndroidManifest.xml:23:5-40:19
 MERGED from [com.google.firebase:firebase-database:19.5.1] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\81b7590cefda853e029283e2e3d7692a\jetified-firebase-database-19.5.1\AndroidManifest.xml:28:5-36:19
 MERGED from [com.google.firebase:firebase-database:19.5.1] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\81b7590cefda853e029283e2e3d7692a\jetified-firebase-database-19.5.1\AndroidManifest.xml:28:5-36:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\d8ad4ef4d06e94d8d0617e17067b92d3\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\d8ad4ef4d06e94d8d0617e17067b92d3\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
 MERGED from [:launcher-debug] C:\Users\Leo\Desktop\sounds\launcher-debug\build\.transforms\614b7185c6d62b36d4f1d361b57046d3\jetified-launcher-debug\AndroidManifest.xml:21:5-23:44
 MERGED from [:launcher-debug] C:\Users\Leo\Desktop\sounds\launcher-debug\build\.transforms\614b7185c6d62b36d4f1d361b57046d3\jetified-launcher-debug\AndroidManifest.xml:21:5-23:44
 MERGED from [:unityLibrary] C:\Users\Leo\Desktop\sounds\unityLibrary\build\.transforms\6fa254f18eac169fe55372a8a18258a6\jetified-unityLibrary\AndroidManifest.xml:27:5-49:19
@@ -93,6 +98,8 @@ MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Leo\.gra
 MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\ea9cc20ebae81b7ab7bc159a2be6d248\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\a916a84d59d8283db03c19ee1974ac39\jetified-firebase-common-19.3.1\AndroidManifest.xml:25:5-38:19
 MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\a916a84d59d8283db03c19ee1974ac39\jetified-firebase-common-19.3.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\ee66278ecf7d603b027229c469589d71\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\ee66278ecf7d603b027229c469589d71\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\06a8ce7a507639b79ab39061c9b3ac46\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\06a8ce7a507639b79ab39061c9b3ac46\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\90343a0b86d4d14c5e98898be30ea840\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
@@ -162,6 +169,8 @@ MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Leo\.gradle\cach
 MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\368aff212683bf59da07e94158258f2e\jetified-firebase-auth-19.2.0\AndroidManifest.xml:21:5-44
 MERGED from [com.google.firebase:firebase-database:19.5.1] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\81b7590cefda853e029283e2e3d7692a\jetified-firebase-database-19.5.1\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-database:19.5.1] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\81b7590cefda853e029283e2e3d7692a\jetified-firebase-database-19.5.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\d8ad4ef4d06e94d8d0617e17067b92d3\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\d8ad4ef4d06e94d8d0617e17067b92d3\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
 MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\ccac18dfb3330bbc3a8a6e9097be97aa\gridlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\ccac18dfb3330bbc3a8a6e9097be97aa\gridlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [:launcher-debug] C:\Users\Leo\Desktop\sounds\launcher-debug\build\.transforms\614b7185c6d62b36d4f1d361b57046d3\jetified-launcher-debug\AndroidManifest.xml:10:5-12:41
@@ -192,6 +201,10 @@ MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Leo\.gradle\ca
 MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\a916a84d59d8283db03c19ee1974ac39\jetified-firebase-common-19.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\701e20cea4d77973874e8cb8b09efa8d\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\701e20cea4d77973874e8cb8b09efa8d\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\ee66278ecf7d603b027229c469589d71\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\ee66278ecf7d603b027229c469589d71\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\c8cd6203c62410599bc68529e89b502d\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\c8cd6203c62410599bc68529e89b502d\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\f9c1b7e56255e65704f999752fcd5a74\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\f9c1b7e56255e65704f999752fcd5a74\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.media:media:1.0.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\140ebd15b226377d09cedb90cd407178\media-1.0.0\AndroidManifest.xml:20:5-44

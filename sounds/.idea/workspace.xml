@@ -18,7 +18,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[R38MA08E95B]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -46,6 +46,7 @@
       <list>
         <option value="navigationResourceFile" />
         <option value="resourceFile" />
+        <option value="layoutResourceFile" />
         <option value="Class" />
       </list>
     </option>
@@ -61,7 +62,7 @@
     <property name="ResourceManagerPrefKey.ResourceType" value="DRAWABLE" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Variables" />
+    <property name="project.structure.last.edited" value="Dependencies" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
@@ -155,6 +156,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="200" y="110" key="#PSD" timestamp="1605674851619">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="200" y="110" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1605674851619" />
     <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1605159367370">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -171,18 +176,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="-73" y="229" width="1182" height="544" key="AVDManager/0.0.1366.728@0.0.1366.728" timestamp="1604473976934" />
-    <state x="263" y="119" key="AndroidCreateResourceFileDialog" timestamp="1605155439907">
+    <state x="263" y="119" key="AndroidCreateResourceFileDialog" timestamp="1605664146533">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="263" y="119" key="AndroidCreateResourceFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605155439907" />
+    <state x="263" y="119" key="AndroidCreateResourceFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605664146533" />
     <state x="529" y="154" key="AndroidCreateXmlResourceDialog" timestamp="1604447246124">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="529" y="154" key="AndroidCreateXmlResourceDialog/0.0.1366.728@0.0.1366.728" timestamp="1604447246124" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1605156470244">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1605673336713">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605156470244" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605673336713" />
     <state width="1306" height="160" key="GridCell.Tab.0.bottom" timestamp="1605160621779">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -203,6 +208,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="191" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604473769831" />
+    <state x="276" y="108" key="psd.add.library.dependency.panel.dimension" timestamp="1605674842265">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="276" y="108" key="psd.add.library.dependency.panel.dimension/0.0.1366.728@0.0.1366.728" timestamp="1605674842265" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1604481533236">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
