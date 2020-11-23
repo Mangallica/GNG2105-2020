@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_marginBottom="10dp">
+    android:layout_marginBottom="10dp"
+    android:background="#00FFFFFF"
+    android:backgroundTintMode="screen">
 
     <RelativeLayout
         android:id="@+id/relay1"
@@ -43,6 +46,7 @@
                 android:text="1min ago"
                 android:textColor="#000000" />
         </LinearLayout>
+
     </RelativeLayout>
 
     <TextView
@@ -123,92 +127,115 @@
         android:layout_below="@id/imgView_line">
 
         <RelativeLayout
+            android:id="@+id/fav"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_weight="1">
-
+            android:layout_weight="1"
+            android:radius ="10dp"
+            android:background="@drawable/custom_ripple"
+            android:clickable="true"
+            android:contextClickable="false"
+            android:fadingEdge="horizontal"
+            android:focusable="true"
+            >
             <LinearLayout
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="132dp"
+                android:layout_height="match_parent"
                 android:layout_centerInParent="true">
 
                 <ImageView
-                    android:layout_width="18dp"
-                    android:layout_height="18dp"
-                    android:adjustViewBounds="true"
-                    android:scaleType="fitCenter"
+                    android:id="@+id/imageView6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
                     app:srcCompat="@drawable/ic_baseline_favorite_24" />
 
                 <TextView
+                    android:id="@+id/textView3"
                     android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginLeft="10dp"
-                    android:fontFamily="sans-serif-medium"
-                    android:text="Like"
-                    android:textColor="#000000"
-                    android:textSize="13sp" />
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="Favorite" />
 
             </LinearLayout>
 
         </RelativeLayout>
 
         <RelativeLayout
+            android:id="@+id/addtocalendarbutton"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:background="#00FFFFFF">
+            android:radius ="10dp"
+            android:background="@drawable/custom_ripple"
+            android:clickable="true"
+            android:contextClickable="false"
+            android:fadingEdge="horizontal"
+            android:focusable="true"
+            >
 
             <LinearLayout
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="130dp"
+                android:layout_height="42dp"
                 android:layout_centerInParent="true">
 
                 <ImageView
-                    android:layout_width="24dp"
-                    android:layout_height="24dp"
-                    android:adjustViewBounds="true"
+                    android:id="@+id/imageView5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
                     android:scaleType="fitCenter"
                     app:srcCompat="@drawable/ic_baseline_calendar_today_24" />
 
                 <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="3dp"
-                    android:fontFamily="sans-serif-medium"
+                    android:id="@+id/textView2"
+                    android:layout_width="92dp"
+                    android:layout_height="24dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
                     android:text="Add to calendar"
-                    android:textColor="#000000"
-                    android:textSize="13sp" />
-
+                    android:textAlignment="center"
+                    android:textSize="12sp" />
             </LinearLayout>
 
         </RelativeLayout>
 
         <RelativeLayout
+            android:id="@+id/share"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_weight="1">
-
+            android:layout_weight="1"
+            android:radius ="10dp"
+            android:background="@drawable/custom_ripple"
+            android:clickable="true"
+            android:contextClickable="false"
+            android:fadingEdge="horizontal"
+            android:focusable="true"
+            >
             <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerInParent="true">
 
                 <ImageView
-                    android:layout_width="18dp"
-                    android:layout_height="18dp"
-                    android:adjustViewBounds="true"
+                    android:id="@+id/imageView7"
+                    android:layout_width="54dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
                     android:scaleType="fitCenter"
                     app:srcCompat="@drawable/ic_baseline_share_24" />
 
                 <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginLeft="10dp"
-                    android:fontFamily="sans-serif-medium"
+                    android:id="@+id/textView5"
+                    android:layout_width="79dp"
+                    android:layout_height="45dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
                     android:text="Share"
-                    android:textColor="#000000"
-                    android:textSize="13sp" />
+                    android:textAlignment="center"
+                    android:textSize="12sp" />
 
             </LinearLayout>
 

@@ -1,5 +1,8 @@
 package com.example.a20qprojet;
 
+import android.view.View;
+import android.widget.RelativeLayout;
+
 /**
  * Created by karsk on 25/04/2018.
  */
@@ -9,7 +12,8 @@ public class EventPost {
     int id, likes, comments, propic, postpic;
     String name, time, status;
 
-    public EventPost(int id, int likes, int comments, int propic, int postpic, String name, String time, String status) {
+
+    public EventPost( int id, int likes, int comments, int propic, int postpic, String name, String time, String status) {
         this.id = id;
         this.likes = likes;
         this.comments = comments;
@@ -18,6 +22,7 @@ public class EventPost {
         this.name = name;
         this.time = time;
         this.status = status;
+
     }
 
     public int getId() {

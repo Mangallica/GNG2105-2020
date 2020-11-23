@@ -103,6 +103,7 @@
     <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.2.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.1.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.constraintlayout:constraintlayout:1.1.3@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.thomsonreuters:rippledecoratorview:1.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: artifacts:launcher-debug:unspecified" level="project" />
     <orderEntry type="library" name="Gradle: artifacts:unityLibrary:unspecified" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.12" level="project" />

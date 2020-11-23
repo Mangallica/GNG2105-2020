@@ -45,9 +45,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="navigationResourceFile" />
-        <option value="resourceFile" />
         <option value="layoutResourceFile" />
         <option value="Class" />
+        <option value="resourceFile" />
       </list>
     </option>
   </component>
@@ -61,8 +61,8 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-11-04T07:22:14.996Z" />
     <property name="ResourceManagerPrefKey.ResourceType" value="DRAWABLE" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/RippleDecoratorView-master" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
@@ -74,6 +74,9 @@
   <component name="RecentsManager">
     <key name="android.template.packageName">
       <recent name="com.example.a20qprojet" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Leo\Desktop\sounds\app\src\main\res\drawable-v24" />
     </key>
   </component>
   <component name="RunManager">
@@ -156,18 +159,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="200" y="110" key="#PSD" timestamp="1605674851619">
+    <state x="200" y="110" key="#PSD" timestamp="1605991820542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="200" y="110" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1605674851619" />
+    <state x="200" y="110" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1605991820542" />
     <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1605159367370">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1605159367370" />
-    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1605159866114">
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1605984487003">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1605159866114" />
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1605984487003" />
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604436711613">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -176,50 +179,50 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="-73" y="229" width="1182" height="544" key="AVDManager/0.0.1366.728@0.0.1366.728" timestamp="1604473976934" />
-    <state x="263" y="119" key="AndroidCreateResourceFileDialog" timestamp="1605664146533">
+    <state x="263" y="119" key="AndroidCreateResourceFileDialog" timestamp="1606030401411">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="263" y="119" key="AndroidCreateResourceFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605664146533" />
+    <state x="263" y="119" key="AndroidCreateResourceFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1606030401411" />
     <state x="529" y="154" key="AndroidCreateXmlResourceDialog" timestamp="1604447246124">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="529" y="154" key="AndroidCreateXmlResourceDialog/0.0.1366.728@0.0.1366.728" timestamp="1604447246124" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1605673336713">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1606086342213">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605673336713" />
-    <state width="1306" height="160" key="GridCell.Tab.0.bottom" timestamp="1605160621779">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606086342213" />
+    <state width="661" height="162" key="GridCell.Tab.0.bottom" timestamp="1605987330095">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="160" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605160621779" />
-    <state width="1306" height="160" key="GridCell.Tab.0.center" timestamp="1605160621779">
+    <state width="661" height="162" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605987330095" />
+    <state width="661" height="162" key="GridCell.Tab.0.center" timestamp="1605987330095">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="160" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605160621779" />
-    <state width="1306" height="160" key="GridCell.Tab.0.left" timestamp="1605160621779">
+    <state width="661" height="162" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605987330095" />
+    <state width="661" height="162" key="GridCell.Tab.0.left" timestamp="1605987330095">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="160" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605160621779" />
-    <state width="1306" height="160" key="GridCell.Tab.0.right" timestamp="1605160621779">
+    <state width="661" height="162" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605987330095" />
+    <state width="661" height="162" key="GridCell.Tab.0.right" timestamp="1605987330095">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="160" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605160621779" />
+    <state width="661" height="162" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605987330095" />
     <state x="191" y="9" key="SettingsEditor" timestamp="1604473769831">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="191" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604473769831" />
-    <state x="276" y="108" key="psd.add.library.dependency.panel.dimension" timestamp="1605674842265">
+    <state x="276" y="108" key="psd.add.library.dependency.panel.dimension" timestamp="1605991371663">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="276" y="108" key="psd.add.library.dependency.panel.dimension/0.0.1366.728@0.0.1366.728" timestamp="1605674842265" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1604481533236">
+    <state x="276" y="108" key="psd.add.library.dependency.panel.dimension/0.0.1366.728@0.0.1366.728" timestamp="1605991371663" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1606086840703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1604481533236" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1604481031462">
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1606086840703" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1605984520146">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1604481031462" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1605984520146" />
   </component>
   <component name="masterDetails">
     <states>

@@ -64,6 +64,10 @@
         "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
+        "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_heart.png.flat",
+        "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\drawable\\heart.png"
+    },
+    {
         "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
@@ -128,8 +132,16 @@
         "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_custom_ripple.xml.flat",
+        "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\drawable-v21\\custom_ripple.xml"
+    },
+    {
         "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
         "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_calendarv.png.flat",
+        "source": "C:\\Users\\Leo\\Desktop\\sounds\\app\\src\\main\\res\\drawable-v24\\calendarv.png"
     },
     {
         "merged": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_home_24.xml.flat",

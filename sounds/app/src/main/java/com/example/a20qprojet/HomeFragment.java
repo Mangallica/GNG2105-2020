@@ -1,28 +1,37 @@
 package com.example.a20qprojet;
 
+import android.content.Intent;
+import android.icu.util.GregorianCalendar;
+import android.os.Build;
 import android.os.Bundle;
 
+import androidx.annotation.RequiresApi;
 import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import android.provider.CalendarContract;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.RelativeLayout;
+import android.widget.Toast;
 
 import java.util.ArrayList;
+
+import static android.content.ContentValues.TAG;
 
 /**
  * A simple {@link Fragment} subclass.
  * Use the {@link HomeFragment#newInstance} factory method to
  * create an instance of this fragment.
  */
-public class HomeFragment extends Fragment {
+public class HomeFragment extends Fragment implements AdapterFeed.OnEventListener {
 
     RecyclerView recyclerView;
-    ArrayList<EventPost> modelFeedArrayList = new ArrayList<>();
+    ArrayList<EventPost> eventFeedArrayList = new ArrayList<>();
     AdapterFeed adapterFeed;
-
     // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
     private static final String ARG_PARAM1 = "param1";
@@ -75,7 +84,7 @@ public class HomeFragment extends Fragment {
         RecyclerView.LayoutManager layoutManager = new LinearLayoutManager(view.getContext());
         recyclerView.setLayoutManager(layoutManager);
 
-        adapterFeed = new AdapterFeed(view.getContext(), modelFeedArrayList);
+        adapterFeed = new AdapterFeed(view.getContext(), eventFeedArrayList,this);
         recyclerView.setAdapter(adapterFeed);
 
         populateRecyclerView();
@@ -88,15 +97,28 @@ public class HomeFragment extends Fragment {
 
         EventPost modelFeed = new EventPost(1, 9, 2, R.drawable.ic_baseline_person_24, 0,
                 "Sajin Maharjan", "2 hrs", "The cars we drive say a lot about us.");
-        modelFeedArrayList.add(modelFeed);
+        eventFeedArrayList.add(modelFeed);
         modelFeed = new EventPost(2, 26, 6, R.drawable.ic_baseline_person_24, 0,
                 "Karun Shrestha", "9 hrs", "Don't be afraid of your fears. They're not there to scare you. They're there to \n" +
                 "let you know that something is worth it.");
-        modelFeedArrayList.add(modelFeed);
+        eventFeedArrayList.add(modelFeed);
         modelFeed = new EventPost(3, 17, 5, R.drawable.ic_baseline_person_24, 0,
                 "Lakshya Ram", "13 hrs", "That reflection!!!");
-        modelFeedArrayList.add(modelFeed);
+        eventFeedArrayList.add(modelFeed);
 
         adapterFeed.notifyDataSetChanged();
     }
+
+
+
+    @Override
+    public void onEventClick(int position) {
+
+        //Toast.makeText(getActivity(),"Touched "+ position,Toast.LENGTH_LONG).show();
+        switch (position){
+            case 0:
+        }
+    }
+
+
 }

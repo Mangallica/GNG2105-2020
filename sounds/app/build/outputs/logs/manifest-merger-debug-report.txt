@@ -12,6 +12,7 @@ MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Leo\.gradle\cach
 MERGED from [com.google.firebase:firebase-database:19.5.1] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\81b7590cefda853e029283e2e3d7692a\jetified-firebase-database-19.5.1\AndroidManifest.xml:15:1-38:12
 MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\d8ad4ef4d06e94d8d0617e17067b92d3\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
 MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\ccac18dfb3330bbc3a8a6e9097be97aa\gridlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.thomsonreuters:rippledecoratorview:1.0.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\2cae5a7812a36b4fa7f715b6a114adb6\jetified-rippledecoratorview-1.0.0\AndroidManifest.xml:2:1-16:12
 MERGED from [:launcher-debug] C:\Users\Leo\Desktop\sounds\launcher-debug\build\.transforms\614b7185c6d62b36d4f1d361b57046d3\jetified-launcher-debug\AndroidManifest.xml:3:1-25:12
 MERGED from [:unityLibrary] C:\Users\Leo\Desktop\sounds\unityLibrary\build\.transforms\6fa254f18eac169fe55372a8a18258a6\jetified-unityLibrary\AndroidManifest.xml:3:1-51:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\809aea522a44cea7ae41449ba0d506ba\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -90,6 +91,8 @@ MERGED from [com.google.firebase:firebase-database:19.5.1] C:\Users\Leo\.gradle\
 MERGED from [com.google.firebase:firebase-database:19.5.1] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\81b7590cefda853e029283e2e3d7692a\jetified-firebase-database-19.5.1\AndroidManifest.xml:28:5-36:19
 MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\d8ad4ef4d06e94d8d0617e17067b92d3\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
 MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\d8ad4ef4d06e94d8d0617e17067b92d3\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.thomsonreuters:rippledecoratorview:1.0.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\2cae5a7812a36b4fa7f715b6a114adb6\jetified-rippledecoratorview-1.0.0\AndroidManifest.xml:11:5-14:19
+MERGED from [com.thomsonreuters:rippledecoratorview:1.0.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\2cae5a7812a36b4fa7f715b6a114adb6\jetified-rippledecoratorview-1.0.0\AndroidManifest.xml:11:5-14:19
 MERGED from [:launcher-debug] C:\Users\Leo\Desktop\sounds\launcher-debug\build\.transforms\614b7185c6d62b36d4f1d361b57046d3\jetified-launcher-debug\AndroidManifest.xml:21:5-23:44
 MERGED from [:launcher-debug] C:\Users\Leo\Desktop\sounds\launcher-debug\build\.transforms\614b7185c6d62b36d4f1d361b57046d3\jetified-launcher-debug\AndroidManifest.xml:21:5-23:44
 MERGED from [:unityLibrary] C:\Users\Leo\Desktop\sounds\unityLibrary\build\.transforms\6fa254f18eac169fe55372a8a18258a6\jetified-unityLibrary\AndroidManifest.xml:27:5-49:19
@@ -173,6 +176,8 @@ MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Leo\.gradle\caches
 MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\d8ad4ef4d06e94d8d0617e17067b92d3\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
 MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\ccac18dfb3330bbc3a8a6e9097be97aa\gridlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\ccac18dfb3330bbc3a8a6e9097be97aa\gridlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.thomsonreuters:rippledecoratorview:1.0.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\2cae5a7812a36b4fa7f715b6a114adb6\jetified-rippledecoratorview-1.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.thomsonreuters:rippledecoratorview:1.0.0] C:\Users\Leo\.gradle\caches\transforms-2\files-2.1\2cae5a7812a36b4fa7f715b6a114adb6\jetified-rippledecoratorview-1.0.0\AndroidManifest.xml:7:5-9:41
 MERGED from [:launcher-debug] C:\Users\Leo\Desktop\sounds\launcher-debug\build\.transforms\614b7185c6d62b36d4f1d361b57046d3\jetified-launcher-debug\AndroidManifest.xml:10:5-12:41
 MERGED from [:launcher-debug] C:\Users\Leo\Desktop\sounds\launcher-debug\build\.transforms\614b7185c6d62b36d4f1d361b57046d3\jetified-launcher-debug\AndroidManifest.xml:10:5-12:41
 MERGED from [:unityLibrary] C:\Users\Leo\Desktop\sounds\unityLibrary\build\.transforms\6fa254f18eac169fe55372a8a18258a6\jetified-unityLibrary\AndroidManifest.xml:9:5-11:41
