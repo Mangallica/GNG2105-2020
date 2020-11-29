@@ -1,10 +1,21 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v28\\values-v28.xml",
+            "outputFile": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v28\\values-v28.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Leo\\Desktop\\sounds\\launcher-debug\\build\\.transforms\\614b7185c6d62b36d4f1d361b57046d3\\jetified-launcher-debug\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\Jedd\\.gradle\\caches\\transforms-2\\files-2.1\\aa90288b74fbdf78b6978c874935ef3f\\appcompat-1.0.2\\res\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\launcher-debug\\build\\.transforms\\f3325139921c5b26551d184c13084b07\\jetified-launcher-debug\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,17 +31,6 @@
                         "endLines": "14",
                         "endColumns": "10",
                         "endOffsets": "862"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Leo\\.gradle\\caches\\transforms-2\\files-2.1\\aa90288b74fbdf78b6978c874935ef3f\\appcompat-1.0.2\\res\\values-v28\\values-v28.xml",
-                    "from": {
-                        "startLines": "2,3,4,8",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,130,217,447",
-                        "endLines": "2,3,7,11",
-                        "endColumns": "74,86,12,12",
-                        "endOffsets": "125,212,442,684"
                     }
                 }
             ]

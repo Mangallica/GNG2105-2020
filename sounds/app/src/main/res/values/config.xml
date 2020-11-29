@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Watson Assistant service credentials-->
+    <!-- REPLACE `ASSISTANT_ID_HERE` with ID of the Assistant to use -->
+    <string name="assistant_id">"daa5fa3a-817d-4bc2-b3f5-46f5b24eb765"
+</string>
+
+    <!-- REPLACE `ASSISTANT_API_KEY_HERE` with Watson Assistant service API Key-->
+    <string name="assistant_apikey">"eHIDmwgEXAOmiOd0jJg4krfkl75z702GR3IjQ4VoAgCs"
+</string>
+
+    <!-- The URL provided below is for DALLAS region/location -->
+    <!-- If the Assistant service is created in another region/lpcation -->
+    <!-- REPLACE the URL with the one provided in the credentials of the service you created-->
+    <string name="assistant_url">"https://api.us-east.assistant.watson.cloud.ibm.com/instances/d40e6608-123f-43a4-9753-82bb4f10ecb6"</string>
+
+
+    <!--Watson Speech To Text(STT) service credentials-->
+    <!-- REPLACE `STT_API_KEY_HERE` with Watson Speech to Text service API Key-->
+    <string name="STT_apikey">"eXi8sqeFmBhQTYkcGXN52_mddimDqjQBLxgAik3aot7B"</string>
+
+    <!-- The URL provided below is for DALLAS region/location -->
+    <!-- If the STT service is created in another region/lpcation -->
+    <!-- REPLACE the URL with STT URL provided in the service credentials -->
+    <string name="STT_url">"https://api.us-east.speech-to-text.watson.cloud.ibm.com/instances/a1896d79-9fc8-4173-adda-842975408cc8"</string>
+
+
+    <!--Watson Text To Speech(TTS) service credentials-->
+    <!-- REPLACE `TTS_API_KEY_HERE` with Watson Text to Speech service API Key-->
+    <string name="TTS_apikey">"Ym7i0YWZoaaPe7toPsC6l8_hzzsJaaJge3GWDznFW8w9"</string>
+
+    <!-- The URL provided below is for DALLAS region/location -->
+    <!-- If the TTS service is created in another region/lpcation -->
+    <!-- REPLACE the URL with TTS URL provided in the service credentials -->
+    <string name="TTS_url">"https://api.us-east.text-to-speech.watson.cloud.ibm.com/instances/a1fc9dbf-2706-4bab-a070-59a782a75e5f"</string>
+
+</resources>

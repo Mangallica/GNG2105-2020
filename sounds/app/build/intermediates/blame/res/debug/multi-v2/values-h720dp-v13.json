@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+            "outputFile": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Leo\\.gradle\\caches\\transforms-2\\files-2.1\\aa90288b74fbdf78b6978c874935ef3f\\appcompat-1.0.2\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "source": "C:\\Users\\Jedd\\.gradle\\caches\\transforms-2\\files-2.1\\aa90288b74fbdf78b6978c874935ef3f\\appcompat-1.0.2\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

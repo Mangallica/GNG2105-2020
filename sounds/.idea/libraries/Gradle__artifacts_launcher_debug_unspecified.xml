@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: artifacts:launcher-debug:unspecified">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/launcher-debug/build/.transforms/614b7185c6d62b36d4f1d361b57046d3/jetified-launcher-debug/res" />
-      <root url="jar://$PROJECT_DIR$/launcher-debug/build/.transforms/614b7185c6d62b36d4f1d361b57046d3/jetified-launcher-debug/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/launcher-debug/build/.transforms/614b7185c6d62b36d4f1d361b57046d3/jetified-launcher-debug/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/launcher-debug/build/.transforms/f3325139921c5b26551d184c13084b07/jetified-launcher-debug/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/launcher-debug/build/.transforms/f3325139921c5b26551d184c13084b07/jetified-launcher-debug/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/launcher-debug/build/.transforms/f3325139921c5b26551d184c13084b07/jetified-launcher-debug/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

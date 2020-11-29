@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Leo\\Desktop\\sounds\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Leo\\.gradle\\caches\\transforms-2\\files-2.1\\aa90288b74fbdf78b6978c874935ef3f\\appcompat-1.0.2\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\Jedd\\.gradle\\caches\\transforms-2\\files-2.1\\aa90288b74fbdf78b6978c874935ef3f\\appcompat-1.0.2\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Leo\\.gradle\\caches\\transforms-2\\files-2.1\\4ce14872a7951875fb2e26e3ddaad543\\material-1.0.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\Jedd\\.gradle\\caches\\transforms-2\\files-2.1\\4ce14872a7951875fb2e26e3ddaad543\\material-1.0.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
