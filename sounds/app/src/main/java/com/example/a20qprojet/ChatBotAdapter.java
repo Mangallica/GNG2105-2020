@@ -14,14 +14,14 @@ import com.bumptech.glide.Glide;
 import java.util.ArrayList;
 
 
-public class ChatAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
+public class ChatBotAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 
     protected Activity activity;
     private int SELF = 100;
     private ArrayList<Message> messageArrayList;
 
 
-    public ChatAdapter(ArrayList<Message> messageArrayList) {
+    public ChatBotAdapter(ArrayList<Message> messageArrayList) {
         this.messageArrayList = messageArrayList;
 
     }

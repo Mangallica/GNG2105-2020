@@ -6,7 +6,6 @@ import android.content.pm.PackageManager;
 import android.graphics.Typeface;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
-import android.os.AsyncTask;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.GestureDetector;
@@ -27,9 +26,7 @@ import androidx.recyclerview.widget.DefaultItemAnimator;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.google.firebase.*;
 import com.google.firebase.firestore.FirebaseFirestore;
-import com.ibm.cloud.sdk.core.http.HttpMediaType;
 import com.ibm.cloud.sdk.core.http.Response;
 import com.ibm.cloud.sdk.core.http.ServiceCall;
 import com.ibm.cloud.sdk.core.security.IamAuthenticator;
@@ -100,7 +97,7 @@ public class ChatbotActivity extends AppCompatActivity {
     }
 
     private RecyclerView recyclerView;
-    private ChatAdapter mAdapter;
+    private ChatBotAdapter mAdapter;
     private ArrayList messageArrayList;
     private EditText inputMessage;
     private ImageButton btnSend;
@@ -145,7 +142,7 @@ public class ChatbotActivity extends AppCompatActivity {
         recyclerView = findViewById(R.id.recycler_view);
 
         messageArrayList = new ArrayList<>();
-        mAdapter = new ChatAdapter(messageArrayList);
+        mAdapter = new ChatBotAdapter(messageArrayList);
         microphoneHelper = new MicrophoneHelper(this);
 
         LinearLayoutManager layoutManager = new LinearLayoutManager(this);
