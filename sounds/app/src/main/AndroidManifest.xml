@@ -11,8 +11,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:replace="android:icon">
-        <activity android:name=".ChatbotActivity"></activity>
-        <activity android:name=".HomeActivity"></activity>
+        <activity android:name=".ChatbotActivity" />
+        <activity android:name=".HomeActivity" android:windowSoftInputMode="adjustPan"></activity>
         <activity android:name=".RegisterActivity"></activity>
         <activity android:name=".UnityHolderActivity" />
         <activity android:name=".LoginActivity">

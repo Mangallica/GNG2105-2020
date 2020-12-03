@@ -401,11 +401,13 @@ MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Us
 	tools:replace
 		ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:13:9-37
 activity#com.example.a20qprojet.ChatbotActivity
-ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:14:9-62
+ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:14:9-53
 	android:name
 		ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:14:19-50
 activity#com.example.a20qprojet.HomeActivity
-ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:15:9-59
+ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:15:9-99
+	android:windowSoftInputMode
+		ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:15:48-87
 	android:name
 		ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:15:19-47
 activity#com.example.a20qprojet.RegisterActivity

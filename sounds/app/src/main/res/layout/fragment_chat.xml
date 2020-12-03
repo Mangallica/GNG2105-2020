@@ -7,45 +7,57 @@
     android:layout_height="match_parent"
     tools:context=".ChatFragment">
 
-    <EditText
-        android:id="@+id/search_field"
-        android:layout_width="340dp"
-        android:layout_height="42dp"
-        android:background="@drawable/search_layout"
-        android:ems="10"
-        android:inputType="textPersonName"
-        android:paddingLeft="20dp"
-        android:paddingTop="10dp"
-        android:paddingRight="20dp"
-        android:paddingBottom="10dp"
-        android:textColor="#999999"
-        android:textSize="16sp"
-        app:layout_constraintBottom_toTopOf="@+id/result_list"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.14"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.375" />
-
-    <ImageButton
-        android:id="@+id/search_btn"
-        android:layout_width="45dp"
-        android:layout_height="44dp"
-        android:background="@android:color/background_light"
-        app:layout_constraintBottom_toTopOf="@+id/result_list"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintStart_toEndOf="@+id/search_field"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.379"
-        app:srcCompat="@mipmap/search_button" />
-
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/result_list"
+    <LinearLayout
+        android:id="@+id/linearLayout2"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="156dp"
+        android:layout_height="84dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.005">
+
+        <EditText
+            android:id="@+id/search_field"
+            android:layout_width="340dp"
+            android:layout_height="42dp"
+            android:background="@drawable/search_layout"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:paddingLeft="20dp"
+            android:paddingTop="10dp"
+            android:paddingRight="20dp"
+            android:paddingBottom="10dp"
+            android:textColor="#999999"
+            android:textSize="16sp" />
+
+        <ImageButton
+            android:id="@+id/search_btn"
+            android:layout_width="45dp"
+            android:layout_height="44dp"
+            android:layout_marginLeft="25dp"
+            android:background="@android:color/background_light"
+            app:srcCompat="@mipmap/search_button" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="668dp"
+        android:gravity="left"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout2">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/result_list"
+            android:layout_marginTop="30dp"
+            android:layout_gravity="left"
+            android:layout_width="500dp"
+            android:layout_height="match_parent" />
+    </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

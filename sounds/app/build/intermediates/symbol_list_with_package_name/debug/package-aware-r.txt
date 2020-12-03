@@ -2512,6 +2512,7 @@ id light
 id line1
 id line3
 id linear
+id linearLayout2
 id listMode
 id list_item
 id live_stream_indicator
@@ -2728,6 +2729,7 @@ id standard
 id start
 id startHorizontal
 id startVertical
+id start_chat
 id start_text
 id staticLayout
 id staticPostLayout

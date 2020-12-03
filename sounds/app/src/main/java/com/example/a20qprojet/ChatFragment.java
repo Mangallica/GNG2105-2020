@@ -12,6 +12,8 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.WindowManager;
+import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.TextView;
@@ -113,6 +115,7 @@ public class ChatFragment extends Fragment {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        getActivity().getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_ADJUST_PAN);
         if (getArguments() != null) {
             mParam1 = getArguments().getString(ARG_PARAM1);
             mParam2 = getArguments().getString(ARG_PARAM2);
@@ -126,7 +129,6 @@ public class ChatFragment extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         Toast.makeText(getActivity(),"Hello",Toast.LENGTH_SHORT).show();
-
         return inflater.inflate(R.layout.fragment_chat, container, false);
     }
 
@@ -180,8 +182,9 @@ public class ChatFragment extends Fragment {
             mView = itemView;
         }
 
-        public void setDetails(Context ctx, String fN, String lN, String uC){
+        public void setDetails(final Context ctx, String fN, String lN, String uC){
             Toast.makeText(ctx,"ReHello",Toast.LENGTH_SHORT).show();
+            Button start_activity = (Button) mView.findViewById(R.id.start_chat);
             TextView first_name = (TextView) mView.findViewById(R.id.firstName_text);
             TextView last_name = (TextView) mView.findViewById(R.id.lastName_text);
             TextView user_class = (TextView) mView.findViewById(R.id.uClass_text);
@@ -190,6 +193,12 @@ public class ChatFragment extends Fragment {
             first_name.setText(fN);
             last_name.setText(lN);
             user_class.setText(uC);
+            start_activity.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    Toast.makeText(ctx,"Button On",Toast.LENGTH_SHORT).show();
+                }
+            });
 
             //Glide.with(ctx).load(userImage).into(user_image);
 
