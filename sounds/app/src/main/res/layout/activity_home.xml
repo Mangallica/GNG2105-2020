@@ -11,20 +11,21 @@
         android:id="@+id/bottomNavigationView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#FF1493"
+        android:background="@color/PinK"
+        app:layout_constraintBottom_toTopOf="@+id/fragment5"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:menu="@menu/bottom_menu"
-        tools:layout_editor_absoluteY="-6dp">
+        app:layout_constraintTop_toTopOf="parent"
+        app:menu="@menu/bottom_menu">
 
     </com.google.android.material.bottomnavigation.BottomNavigationView>
 
     <fragment
         android:id="@+id/fragment5"
         android:name="androidx.navigation.fragment.NavHostFragment"
-        android:layout_width="wrap_content"
-        android:layout_height="605dp"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
         app:defaultNavHost="true"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

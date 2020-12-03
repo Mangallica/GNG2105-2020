@@ -1,1 +1,1 @@
-[{"navFile":"src\\main\\res\\navigation\\nav.xml","javaFiles":[]}]
+[{"navFile":"src\\main\\res\\navigation\\createpostnav.xml","javaFiles":["com.example.a20qprojet.postTypeSelectionDirections","com.example.a20qprojet.eventDateSelectionDirections","com.example.a20qprojet.postcreationDirections","com.example.a20qprojet.postcreationArgs"]},{"navFile":"src\\main\\res\\navigation\\nav.xml","javaFiles":[]}]

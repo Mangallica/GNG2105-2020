@@ -8,6 +8,8 @@
         android:minSdkVersion="23"
         android:targetSdkVersion="29" />
 
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
     <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
     <!-- <uses-sdk android:minSdkVersion="14"/> -->
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -45,12 +47,23 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.a20qprojet.HomeActivity" >
-        </activity>
-        <activity android:name="com.example.a20qprojet.RegisterActivity" >
-        </activity>
+        <activity
+            android:name="com.example.a20qprojet.CreatePost"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.a20qprojet.HomeActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.a20qprojet.RegisterActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait" />
         <activity android:name="com.example.a20qprojet.UnityHolderActivity" />
-        <activity android:name="com.example.a20qprojet.LoginActivity" >
+        <activity
+            android:name="com.example.a20qprojet.LoginActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -75,7 +88,18 @@
             <meta-data
                 android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
         </service>
+
+        <provider
+            android:name="com.squareup.picasso.PicassoProvider"
+            android:authorities="com.example.a20qprojet.com.squareup.picasso"
+            android:exported="false" />
 
         <activity
             android:name="com.unity3d.player.UnityPlayerActivity"
