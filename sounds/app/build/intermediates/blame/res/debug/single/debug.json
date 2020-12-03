@@ -1,15 +1,15 @@
 [
     {
-        "merged": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_postcreation.xml.flat",
-        "source": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\src\\main\\res\\layout\\fragment_postcreation.xml"
+        "merged": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_search_btn_bg.png.flat",
+        "source": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\src\\main\\res\\mipmap-hdpi\\search_btn_bg.png"
     },
     {
         "merged": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_heart_431.png.flat",
         "source": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\heart_431.png"
     },
     {
-        "merged": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_search_btn_bg.png.flat",
-        "source": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\src\\main\\res\\mipmap-hdpi\\search_btn_bg.png"
+        "merged": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_postcreation.xml.flat",
+        "source": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\src\\main\\res\\layout\\fragment_postcreation.xml"
     },
     {
         "merged": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_face.png.flat",
@@ -32,12 +32,12 @@
         "source": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_face.png"
     },
     {
-        "merged": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_item_watson.xml.flat",
-        "source": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\src\\main\\res\\layout\\chat_item_watson.xml"
-    },
-    {
         "merged": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\navigation_createpostnav.xml.flat",
         "source": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\src\\main\\res\\navigation\\createpostnav.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_item_watson.xml.flat",
+        "source": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\src\\main\\res\\layout\\chat_item_watson.xml"
     },
     {
         "merged": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_heart_431.xml.flat",
