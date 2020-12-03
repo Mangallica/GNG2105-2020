@@ -924,6 +924,7 @@ attr suffixText
 attr suffixTextAppearance
 attr suffixTextColor
 attr suggestionRowLayout
+attr swipeRefreshLayoutProgressSpinnerBackgroundColor
 attr switchMinWidth
 attr switchPadding
 attr switchStyle
@@ -1091,6 +1092,7 @@ bool abc_action_bar_embed_tabs
 bool abc_allow_stacked_button_bar
 bool abc_config_actionMenuItemAllCaps
 bool mtrl_btn_textappearance_all_caps
+color PinK
 color abc_background_cache_hint_selector_material_dark
 color abc_background_cache_hint_selector_material_light
 color abc_btn_colored_borderless_text_material
@@ -1294,6 +1296,7 @@ color mtrl_textinput_hovered_box_stroke_color
 color notification_action_color_filter
 color notification_icon_bg_color
 color notification_material_background_media_default_color
+color pk
 color place_autocomplete_prediction_primary_text
 color place_autocomplete_prediction_primary_text_highlight
 color place_autocomplete_prediction_secondary_text
@@ -1733,6 +1736,7 @@ dimen tooltip_precise_anchor_threshold
 dimen tooltip_vertical_padding
 dimen tooltip_y_offset_non_touch
 dimen tooltip_y_offset_touch
+drawable _0200511_195414
 drawable abc_ab_share_pack_mtrl_alpha
 drawable abc_action_bar_item_background_material
 drawable abc_btn_borderless_material
@@ -1887,6 +1891,7 @@ drawable cast_ic_stop_circle_filled_white
 drawable cast_mini_controller_gradient_light
 drawable cast_mini_controller_progress_drawable
 drawable cast_skip_ad_label_border
+drawable circle
 drawable common_full_open_on_phone
 drawable common_google_signin_btn_icon_dark
 drawable common_google_signin_btn_icon_dark_focused
@@ -1922,10 +1927,14 @@ drawable heart_431__1_
 drawable ic_add_black_24dp
 drawable ic_audiotrack_dark
 drawable ic_audiotrack_light
+drawable ic_baseline_add_a_photo_24
 drawable ic_baseline_calendar_today_24
+drawable ic_baseline_close_24
 drawable ic_baseline_favorite_24
 drawable ic_baseline_home_24
 drawable ic_baseline_person_24
+drawable ic_baseline_photo_24
+drawable ic_baseline_send_24
 drawable ic_baseline_share_24
 drawable ic_baseline_sms_24
 drawable ic_dialog_close_dark
@@ -2113,6 +2122,8 @@ drawable ic_vol_type_speaker_group_light
 drawable ic_vol_type_speaker_light
 drawable ic_vol_type_tv_dark
 drawable ic_vol_type_tv_light
+drawable img
+drawable imgsquare
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
 drawable material_ic_edit_black_24dp
@@ -2150,6 +2161,7 @@ drawable mtrl_popupmenu_background
 drawable mtrl_popupmenu_background_dark
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
+drawable newpostbutton
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -2208,6 +2220,7 @@ drawable quantum_ic_volume_off_grey600_36
 drawable quantum_ic_volume_off_white_36
 drawable quantum_ic_volume_up_grey600_36
 drawable quantum_ic_volume_up_white_36
+drawable roundedsquare
 drawable search_layout
 drawable test_custom_background
 drawable tooltip_frame_dark
@@ -2215,7 +2228,6 @@ drawable tooltip_frame_light
 id ALT
 id BOTTOM_END
 id BOTTOM_START
-id Banner
 id CTRL
 id EmailField
 id FUNCTION
@@ -2277,12 +2289,17 @@ id action_bar_title
 id action_container
 id action_context_bar
 id action_divider
+id action_eventDateSelection_to_postTypeSelection
 id action_image
 id action_menu_divider
 id action_menu_presenter
 id action_mode_bar
 id action_mode_bar_stub
 id action_mode_close_button
+id action_postTypeSelection_to_eventDateSelection
+id action_postTypeSelection_to_postcreation
+id action_postcreation_to_eventDateSelection
+id action_postcreation_to_postTypeSelection
 id action_text
 id actions
 id activity_chooser_view_content
@@ -2292,6 +2309,7 @@ id ad_in_progress_label
 id ad_label
 id add
 id addMessageImageView
+id addimagebutton2
 id addtocalendarbutton
 id adjust_height
 id adjust_width
@@ -2373,6 +2391,9 @@ id classic
 id clear_text
 id clip_horizontal
 id clip_vertical
+id closeSelectionButton
+id closeSelectionButton2
+id closebutton2
 id collapseActionView
 id confirmPasswordField
 id confirm_button
@@ -2386,6 +2407,9 @@ id controllers
 id coordinator
 id cos
 id crash_reporting_present
+id createEvent
+id createpost
+id createpostnav
 id custom
 id customPanel
 id cut
@@ -2411,7 +2435,6 @@ id direct
 id disableHome
 id disablePostScroll
 id disableScroll
-id divider
 id donate_with
 id donate_with_google
 id dragDown
@@ -2431,9 +2454,14 @@ id emailField
 id end
 id end_padder
 id end_text
+id endtime
 id enterAlways
 id enterAlwaysCollapsed
+id eventButton
+id eventDateSelection
+id eventToPost
 id event_details
+id eventdate
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_controller_layout
@@ -2451,6 +2479,7 @@ id fixed
 id flip
 id floating
 id forever
+id fragment2
 id fragment5
 id fragment_container_view_tag
 id ghost_view
@@ -2505,6 +2534,7 @@ id intent_extra_data
 id invisible
 id italic
 id item_touch_helper_previous_elevation
+id jobpostingtoggleButton2
 id jumpToEnd
 id jumpToStart
 id labeled
@@ -2654,13 +2684,19 @@ id place_autocomplete_search_input
 id place_autocomplete_separator
 id plain
 id position
+id postDescription
 id postLayout
+id postTypeSelection
 id post_time
+id postbutton2
+id postcreation
+id postimage
 id production
 id profileFragment
 id profilePic
 id profile_image
 id profilentreprise
+id profilepicture
 id progressBar
 id progressBar2
 id progress_circular
@@ -2693,6 +2729,7 @@ id scroll
 id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
+id scrollView2
 id scrollable
 id search_badge
 id search_bar
@@ -2741,10 +2778,12 @@ id startHorizontal
 id startVertical
 id start_chat
 id start_text
+id starttime
 id staticLayout
 id staticPostLayout
 id status_bar_latest_event_content
 id status_text
+id statustoggleButton
 id stop
 id stretch
 id strict_sandbox
@@ -2752,6 +2791,7 @@ id stroke
 id submenuarrow
 id submit_area
 id subtitle_view
+id swiperefresh
 id tabMode
 id tab_host
 id tag_accessibility_actions
@@ -2905,6 +2945,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_chatbot
 layout activity_conversation
+layout activity_create_post
 layout activity_home
 layout activity_register
 layout activity_unity_holder
@@ -2935,7 +2976,10 @@ layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout eventfeed
 layout fragment_chat
+layout fragment_event_date_selection
 layout fragment_home
+layout fragment_post_type_selection
+layout fragment_postcreation
 layout fragment_profile
 layout fragment_relaxation
 layout login_activity
@@ -3034,6 +3078,7 @@ mipmap ic_mic
 mipmap ic_send
 mipmap search_btn_bg
 mipmap search_button
+navigation createpostnav
 navigation nav
 plurals mtrl_badge_content_description
 string STT_apikey
@@ -4113,6 +4158,7 @@ styleable State android_id constraints
 styleable StateListDrawable android_dither android_visible android_variablePadding android_constantSize android_enterFadeDuration android_exitFadeDuration
 styleable StateListDrawableItem android_drawable
 styleable StateSet defaultState
+styleable SwipeRefreshLayout swipeRefreshLayoutProgressSpinnerBackgroundColor
 styleable SwitchCompat android_textOn android_textOff android_thumb showText splitTrack switchMinWidth switchPadding switchTextAppearance thumbTextPadding thumbTint thumbTintMode track trackTint trackTintMode
 styleable SwitchMaterial useMaterialThemeColors
 styleable TabItem android_icon android_layout android_text

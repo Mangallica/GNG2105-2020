@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/createpostnav"
+    app:startDestination="@id/postTypeSelection">
+
+    <fragment
+        android:id="@+id/postTypeSelection"
+        android:name="com.example.a20qprojet.postTypeSelection"
+        android:label="fragment_post_type_selection"
+        tools:layout="@layout/fragment_post_type_selection">
+        <action
+            android:id="@+id/action_postTypeSelection_to_eventDateSelection"
+            app:destination="@id/eventDateSelection"
+            app:enterAnim="@anim/fragment_open_enter"
+            app:exitAnim="@anim/fragment_close_enter" />
+        <action
+            android:id="@+id/action_postTypeSelection_to_postcreation"
+            app:destination="@id/postcreation" >
+            <argument
+                android:name="type"
+                android:defaultValue="Status/Job Posting" />
+        </action>
+    </fragment>
+    <fragment
+        android:id="@+id/eventDateSelection"
+        android:name="com.example.a20qprojet.eventDateSelection"
+        android:label="fragment_event_date_selection"
+        tools:layout="@layout/fragment_event_date_selection">
+        <action
+            android:id="@+id/action_eventDateSelection_to_postTypeSelection"
+            app:destination="@id/postTypeSelection" />
+        <action
+            android:id="@+id/eventToPost"
+            app:destination="@id/postcreation"
+            app:enterAnim="@anim/fragment_fade_enter"
+            app:exitAnim="@anim/fragment_fade_exit" >
+            <argument
+                android:name="type"
+                android:defaultValue="Event" />
+        </action>
+    </fragment>
+    <fragment
+        android:id="@+id/postcreation"
+        android:name="com.example.a20qprojet.postcreation"
+        android:label="fragment_postcreation"
+        tools:layout="@layout/fragment_postcreation">
+        <action
+            android:id="@+id/action_postcreation_to_eventDateSelection"
+            app:destination="@id/eventDateSelection" />
+        <action
+            android:id="@+id/action_postcreation_to_postTypeSelection"
+            app:destination="@id/postTypeSelection" />
+        <argument
+            android:name="type"
+            app:argType="string" />
+    </fragment>
+</navigation>

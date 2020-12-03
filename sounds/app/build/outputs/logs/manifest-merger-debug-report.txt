@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:2:1-32:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\2d3ebccd61145f0671894f6bdf857165\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
 MERGED from [com.ibm.watson.developer_cloud:android-sdk:0.5.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\0a11d5a371c69c541661194cb1f030d8\jetified-android-sdk-0.5.0\AndroidManifest.xml:2:1-24:12
 MERGED from [androidx.navigation:navigation-ui:2.3.1] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\31d7c331afd4fbbb3a7d9ffd3069e4d1\navigation-ui-2.3.1\AndroidManifest.xml:17:1-24:12
@@ -18,16 +18,18 @@ MERGED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Jedd\.gradle\cac
 MERGED from [com.google.firebase:firebase-database:19.5.1] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\81b7590cefda853e029283e2e3d7692a\jetified-firebase-database-19.5.1\AndroidManifest.xml:15:1-38:12
 MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\d8ad4ef4d06e94d8d0617e17067b92d3\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
 MERGED from [com.google.firebase:firebase-firestore:22.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\7b3501fa9ea1bec48204ea01d90033cd\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\e9866db0e44fb208ad171ce7ce5dd6df\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\2eab4db95efccfac40fac6cf46b7c362\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
 MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\ccac18dfb3330bbc3a8a6e9097be97aa\gridlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.thomsonreuters:rippledecoratorview:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\2cae5a7812a36b4fa7f715b6a114adb6\jetified-rippledecoratorview-1.0.0\AndroidManifest.xml:2:1-16:12
 MERGED from [:launcher-debug] C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\launcher-debug\build\.transforms\f3325139921c5b26551d184c13084b07\jetified-launcher-debug\AndroidManifest.xml:3:1-25:12
 MERGED from [:unityLibrary] C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\unityLibrary\build\.transforms\ac897456f8b0a65ab7fecb81ed77e243\jetified-unityLibrary\AndroidManifest.xml:3:1-51:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\e9866db0e44fb208ad171ce7ce5dd6df\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\ecca61be8776d74653e5351cde79c6ec\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\809aea522a44cea7ae41449ba0d506ba\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\7190935de7b04c68e0635af021eea06c\jetified-circleimageview-3.1.0\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.navigation:navigation-fragment:2.3.1] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\4a02695a4c8e0518af210bde58afa43c\navigation-fragment-2.3.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\005e44c66d6617ee6187fec3ce9c0f0d\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\f9d8d3f86ee7945d3c9c19a1e3d92390\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\4a02695a4c8e0518af210bde58afa43c\navigation-fragment-2.3.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\3bc6f3bbf93775444d28a22f114f3449\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\02a537e8a27f42aec459a6b05ddab11d\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\3b5da4e0e27bc0cfab2491eb8ecc3ece\jetified-play-services-auth-12.0.1\AndroidManifest.xml:17:1-39:12
@@ -93,7 +95,6 @@ MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Jedd\.gradle\caches\tr
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\cd655457920c1f4a17fe88ecdd2c841a\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.1.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\6a48c69641dbd2ad3d4f1d06dff9cfaf\customview-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.transition:transition:1.3.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\12f6a1c733d0ee8ead9b6910b52f87f9\transition-1.3.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\bc7073a0b76a0a5bb00fd3495aaaea94\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\91800ddb2b916ce7068067fd6cc9f3b2\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\946f3f59b0c05317f6e66ba8a5670ff2\loader-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-runtime:2.3.1] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\cca72d17cd292956d32a92ced266e71e\navigation-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
@@ -104,8 +105,8 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [com.google.firebase:firebase-components:16.0.1] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\ac3b65913d1f5c28be63c3fc92fc1991\jetified-firebase-components-16.0.1\AndroidManifest.xml:15:1-23:12
 MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\ee66278ecf7d603b027229c469589d71\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\c8cd6203c62410599bc68529e89b502d\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\f9c1b7e56255e65704f999752fcd5a74\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\a7968c8c27780b4034055458f0d2b67d\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\f9c1b7e56255e65704f999752fcd5a74\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\0447bd3316e4ede240cc8d0cc48b67a6\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\a2c9a2b19668e5aa34c8660e036c5166\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\6750c32c4f13ec2a442d0493aa79582c\print-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -163,27 +164,31 @@ MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] 
 MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\0a3cd648b2f2149f81e9c9350c6ba85f\jetified-play-services-vision-license-12.0.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\36763cf0dd152ca9e9102f8d8c0a94d3\jetified-play-services-wallet-license-12.0.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\c8752233bd805afca76bb38ae9e8932d\jetified-play-services-wearable-license-12.0.1\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:2:1-32:12
 	package
 		ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:4:5-37
 		INJECTED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:2:1-30:12
+		ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:2:1-32:12
 		INJECTED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:2:1-30:12
+		ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:2:1-32:12
 		INJECTED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:5:22-77
 application
-ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:6:5-28:19
+ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:6:5-30:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\2d3ebccd61145f0671894f6bdf857165\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\2d3ebccd61145f0671894f6bdf857165\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
 MERGED from [com.ibm.watson.developer_cloud:android-sdk:0.5.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\0a11d5a371c69c541661194cb1f030d8\jetified-android-sdk-0.5.0\AndroidManifest.xml:11:5-22:19
@@ -206,6 +211,8 @@ MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Jedd\.gradle\cache
 MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\d8ad4ef4d06e94d8d0617e17067b92d3\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
 MERGED from [com.google.firebase:firebase-firestore:22.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\7b3501fa9ea1bec48204ea01d90033cd\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:16:5-24:19
 MERGED from [com.google.firebase:firebase-firestore:22.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\7b3501fa9ea1bec48204ea01d90033cd\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:16:5-24:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\2eab4db95efccfac40fac6cf46b7c362\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\2eab4db95efccfac40fac6cf46b7c362\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
 MERGED from [com.thomsonreuters:rippledecoratorview:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\2cae5a7812a36b4fa7f715b6a114adb6\jetified-rippledecoratorview-1.0.0\AndroidManifest.xml:11:5-14:19
 MERGED from [com.thomsonreuters:rippledecoratorview:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\2cae5a7812a36b4fa7f715b6a114adb6\jetified-rippledecoratorview-1.0.0\AndroidManifest.xml:11:5-14:19
 MERGED from [:launcher-debug] C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\launcher-debug\build\.transforms\f3325139921c5b26551d184c13084b07\jetified-launcher-debug\AndroidManifest.xml:21:5-23:44
@@ -426,19 +433,23 @@ ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\A
 	android:name
 		ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:20:19-54
 activity#com.example.a20qprojet.LoginActivity
-ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:21:9-27:20
+ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:screenOrientation
+		ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:23:13-49
+	android:configChanges
+		ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:22:13-48
 	android:name
 		ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:21:19-48
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:22:13-26:29
+ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:23:17-69
+ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:23:25-66
+		ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:25:17-77
+ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:25:27-74
+		ADDED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml:27:27-74
 uses-sdk
 INJECTED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\app\src\main\AndroidManifest.xml
@@ -471,6 +482,10 @@ MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Jedd\.gradle\cache
 MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\d8ad4ef4d06e94d8d0617e17067b92d3\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
 MERGED from [com.google.firebase:firebase-firestore:22.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\7b3501fa9ea1bec48204ea01d90033cd\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-firestore:22.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\7b3501fa9ea1bec48204ea01d90033cd\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\e9866db0e44fb208ad171ce7ce5dd6df\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\e9866db0e44fb208ad171ce7ce5dd6df\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\2eab4db95efccfac40fac6cf46b7c362\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\2eab4db95efccfac40fac6cf46b7c362\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
 MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\ccac18dfb3330bbc3a8a6e9097be97aa\gridlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\ccac18dfb3330bbc3a8a6e9097be97aa\gridlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.thomsonreuters:rippledecoratorview:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\2cae5a7812a36b4fa7f715b6a114adb6\jetified-rippledecoratorview-1.0.0\AndroidManifest.xml:7:5-9:41
@@ -479,18 +494,18 @@ MERGED from [:launcher-debug] C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\so
 MERGED from [:launcher-debug] C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\launcher-debug\build\.transforms\f3325139921c5b26551d184c13084b07\jetified-launcher-debug\AndroidManifest.xml:10:5-12:41
 MERGED from [:unityLibrary] C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\unityLibrary\build\.transforms\ac897456f8b0a65ab7fecb81ed77e243\jetified-unityLibrary\AndroidManifest.xml:9:5-11:41
 MERGED from [:unityLibrary] C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\unityLibrary\build\.transforms\ac897456f8b0a65ab7fecb81ed77e243\jetified-unityLibrary\AndroidManifest.xml:9:5-11:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\e9866db0e44fb208ad171ce7ce5dd6df\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\e9866db0e44fb208ad171ce7ce5dd6df\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\ecca61be8776d74653e5351cde79c6ec\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\ecca61be8776d74653e5351cde79c6ec\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\809aea522a44cea7ae41449ba0d506ba\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\809aea522a44cea7ae41449ba0d506ba\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\7190935de7b04c68e0635af021eea06c\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
 MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\7190935de7b04c68e0635af021eea06c\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.navigation:navigation-fragment:2.3.1] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\4a02695a4c8e0518af210bde58afa43c\navigation-fragment-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-fragment:2.3.1] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\4a02695a4c8e0518af210bde58afa43c\navigation-fragment-2.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\005e44c66d6617ee6187fec3ce9c0f0d\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\005e44c66d6617ee6187fec3ce9c0f0d\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\f9d8d3f86ee7945d3c9c19a1e3d92390\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\f9d8d3f86ee7945d3c9c19a1e3d92390\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\4a02695a4c8e0518af210bde58afa43c\navigation-fragment-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\4a02695a4c8e0518af210bde58afa43c\navigation-fragment-2.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\3bc6f3bbf93775444d28a22f114f3449\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\3bc6f3bbf93775444d28a22f114f3449\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\02a537e8a27f42aec459a6b05ddab11d\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
@@ -621,8 +636,6 @@ MERGED from [androidx.customview:customview:1.1.0] C:\Users\Jedd\.gradle\caches\
 MERGED from [androidx.customview:customview:1.1.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\6a48c69641dbd2ad3d4f1d06dff9cfaf\customview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.transition:transition:1.3.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\12f6a1c733d0ee8ead9b6910b52f87f9\transition-1.3.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.transition:transition:1.3.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\12f6a1c733d0ee8ead9b6910b52f87f9\transition-1.3.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\bc7073a0b76a0a5bb00fd3495aaaea94\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\bc7073a0b76a0a5bb00fd3495aaaea94\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\91800ddb2b916ce7068067fd6cc9f3b2\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\91800ddb2b916ce7068067fd6cc9f3b2\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\946f3f59b0c05317f6e66ba8a5670ff2\loader-1.0.0\AndroidManifest.xml:20:5-44
@@ -643,10 +656,10 @@ MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Jedd\.gradle\
 MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\ee66278ecf7d603b027229c469589d71\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\c8cd6203c62410599bc68529e89b502d\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\c8cd6203c62410599bc68529e89b502d\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\f9c1b7e56255e65704f999752fcd5a74\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\f9c1b7e56255e65704f999752fcd5a74\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\a7968c8c27780b4034055458f0d2b67d\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\a7968c8c27780b4034055458f0d2b67d\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\f9c1b7e56255e65704f999752fcd5a74\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\f9c1b7e56255e65704f999752fcd5a74\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\0447bd3316e4ede240cc8d0cc48b67a6\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\0447bd3316e4ede240cc8d0cc48b67a6\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\a2c9a2b19668e5aa34c8660e036c5166\documentfile-1.0.0\AndroidManifest.xml:20:5-44
@@ -967,6 +980,14 @@ ADDED from [com.google.firebase:firebase-firestore:22.0.0] C:\Users\Jedd\.gradle
 		ADDED from [com.google.firebase:firebase-firestore:22.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\7b3501fa9ea1bec48204ea01d90033cd\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:22:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-firestore:22.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\7b3501fa9ea1bec48204ea01d90033cd\jetified-firebase-firestore-22.0.0\AndroidManifest.xml:21:17-111
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\2eab4db95efccfac40fac6cf46b7c362\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\2eab4db95efccfac40fac6cf46b7c362\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\2eab4db95efccfac40fac6cf46b7c362\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\2eab4db95efccfac40fac6cf46b7c362\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
 supports-screens
 ADDED from [:launcher-debug] C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\launcher-debug\build\.transforms\f3325139921c5b26551d184c13084b07\jetified-launcher-debug\AndroidManifest.xml:14:5-19:40
 	android:largeScreens

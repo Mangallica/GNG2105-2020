@@ -68,8 +68,7 @@
         android:layout_marginTop="15dp"
         android:adjustViewBounds="true"
         android:scaleType="fitCenter"
-        android:visibility="gone"
-        app:srcCompat="@drawable/heart_431__1_" />
+        android:visibility="visible" />
 
     <ImageView
         android:id="@+id/imgView_line"
@@ -148,6 +147,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
+                    android:scaleX="0.75"
+                    android:scaleY="0.75"
                     app:srcCompat="@drawable/ic_baseline_favorite_24" />
 
                 <TextView
@@ -156,7 +157,8 @@
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:gravity="center"
-                    android:text="Favorite" />
+                    android:text="Favorite"
+                    android:textAlignment="textStart" />
 
             </LinearLayout>
 
@@ -186,6 +188,8 @@
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:scaleType="fitCenter"
+                    android:scaleX="0.75"
+                    android:scaleY="0.75"
                     app:srcCompat="@drawable/ic_baseline_calendar_today_24" />
 
                 <TextView
@@ -196,7 +200,7 @@
                     android:layout_weight="1"
                     android:gravity="center"
                     android:text="Add to calendar"
-                    android:textAlignment="center"
+                    android:textAlignment="viewStart"
                     android:textSize="12sp" />
             </LinearLayout>
 
@@ -225,6 +229,8 @@
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:scaleType="fitCenter"
+                    android:scaleX=".75"
+                    android:scaleY="0.75"
                     app:srcCompat="@drawable/ic_baseline_share_24" />
 
                 <TextView
@@ -234,7 +240,7 @@
                     android:layout_weight="1"
                     android:gravity="center"
                     android:text="Share"
-                    android:textAlignment="center"
+                    android:textAlignment="textStart"
                     android:textSize="12sp" />
 
             </LinearLayout>

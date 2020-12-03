@@ -4,6 +4,7 @@ package com.example.a20qprojet;
 import android.content.Context;
 
 import android.content.Intent;
+import android.graphics.drawable.Drawable;
 import android.icu.util.GregorianCalendar;
 import android.os.Build;
 import android.provider.CalendarContract;
@@ -21,6 +22,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.RequestManager;
+import com.squareup.picasso.Picasso;
 
 import org.w3c.dom.Text;
 
@@ -50,6 +52,7 @@ public class AdapterFeed extends RecyclerView.Adapter<AdapterFeed.MyViewHolder> 
 
         View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.eventfeed, parent, false);
         view.setOnClickListener(this);
+
         MyViewHolder viewHolder = new MyViewHolder(view,mOnEventListener);
         return viewHolder;
     }
@@ -64,14 +67,18 @@ public class AdapterFeed extends RecyclerView.Adapter<AdapterFeed.MyViewHolder> 
         holder.tv_comments.setText(modelFeed.getComments() + " comments");
         holder.tv_status.setText(modelFeed.getStatus());
 
-        glide.load(modelFeed.getPropic()).into(holder.imgView_proPic);
+        if(modelFeed.getUrl()!=null){
+            Picasso.get().load(modelFeed.getUrl()).into(holder.imgView_postPic);
+        }
 
-        if (modelFeed.getPostpic() == 0) {
+        //glide.load(modelFeed.getPropic()).into(holder.imgView_proPic);
+
+        /*if (modelFeed.getPostpic() == 0) {
             holder.imgView_postPic.setVisibility(View.GONE);
         } else {
             holder.imgView_postPic.setVisibility(View.VISIBLE);
             glide.load(modelFeed.getPostpic()).into(holder.imgView_postPic);
-        }
+        }*/
     }
 
     @Override
@@ -85,7 +92,7 @@ public class AdapterFeed extends RecyclerView.Adapter<AdapterFeed.MyViewHolder> 
     }
 
 
-    public int getEventId(int position){
+    public long getEventId(int position){
         return modelFeedArrayList.get(position).id;
     }
 
@@ -103,6 +110,7 @@ public class AdapterFeed extends RecyclerView.Adapter<AdapterFeed.MyViewHolder> 
 
             this.onEventListener= onEventListener;
             imgView_proPic = (ImageView) itemView.findViewById(R.id.profilePic);
+
             imgView_postPic = (ImageView) itemView.findViewById(R.id.imgView_postPic);
 
             tv_name = (TextView) itemView.findViewById(R.id.user_name);
