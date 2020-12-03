@@ -32,9 +32,10 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="197dp"
-        android:layout_height="196dp"
-        android:layout_marginStart="104dp"
+        android:layout_width="121dp"
+        android:layout_height="121dp"
+        android:layout_marginStart="144dp"
+        android:layout_marginTop="104dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         tools:src="@mipmap/default_user" />
