@@ -1,6 +1,7 @@
 package com.example.a20qprojet;
 
 import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 
 import androidx.annotation.NonNull;
@@ -182,7 +183,7 @@ public class ChatFragment extends Fragment {
             mView = itemView;
         }
 
-        public void setDetails(final Context ctx, String fN, String lN, String uC){
+        public void setDetails(final Context ctx, String fN, String lN, final String uC){
             Toast.makeText(ctx,"ReHello",Toast.LENGTH_SHORT).show();
             Button start_activity = (Button) mView.findViewById(R.id.start_chat);
             TextView first_name = (TextView) mView.findViewById(R.id.firstName_text);
@@ -197,6 +198,14 @@ public class ChatFragment extends Fragment {
                 @Override
                 public void onClick(View view) {
                     Toast.makeText(ctx,"Button On",Toast.LENGTH_SHORT).show();
+                    if(uC.equals("Employer")){
+                        Intent i = new Intent(ctx,ChatbotActivity.class);
+                        ctx.startActivity(i);
+                    }
+                    else{
+                        Intent i = new Intent(ctx,ConversationActivity.class);
+                        ctx.startActivity(i);
+                    }
                 }
             });
 

@@ -2894,6 +2894,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_chatbot
+layout activity_conversation
 layout activity_home
 layout activity_register
 layout activity_unity_holder

@@ -51,6 +51,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.a20qprojet.ConversationActivity" />
         <activity android:name="com.example.a20qprojet.ChatbotActivity" />
         <activity
             android:name="com.example.a20qprojet.HomeActivity"
