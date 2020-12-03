@@ -183,7 +183,7 @@ public class ChatFragment extends Fragment {
             mView = itemView;
         }
 
-        public void setDetails(final Context ctx, String fN, String lN, final String uC){
+        public void setDetails(final Context ctx, final String fN, String lN, final String uC){
             Toast.makeText(ctx,"ReHello",Toast.LENGTH_SHORT).show();
             Button start_activity = (Button) mView.findViewById(R.id.start_chat);
             TextView first_name = (TextView) mView.findViewById(R.id.firstName_text);
@@ -200,10 +200,12 @@ public class ChatFragment extends Fragment {
                     Toast.makeText(ctx,"Button On",Toast.LENGTH_SHORT).show();
                     if(uC.equals("Employer")){
                         Intent i = new Intent(ctx,ChatbotActivity.class);
+
                         ctx.startActivity(i);
                     }
                     else{
                         Intent i = new Intent(ctx,ConversationActivity.class);
+                        i.putExtra("prtnr",fN);
                         ctx.startActivity(i);
                     }
                 }

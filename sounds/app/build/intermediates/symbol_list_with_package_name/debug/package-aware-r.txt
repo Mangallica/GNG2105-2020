@@ -271,6 +271,10 @@ attr chipStyle
 attr chipSurfaceColor
 attr circleCrop
 attr circleRadius
+attr civ_border_color
+attr civ_border_overlay
+attr civ_border_width
+attr civ_circle_background_color
 attr clickAction
 attr closeIcon
 attr closeIconEnabled
@@ -1915,6 +1919,7 @@ drawable googleg_standard_color_18
 drawable heart
 drawable heart_431
 drawable heart_431__1_
+drawable ic_add_black_24dp
 drawable ic_audiotrack_dark
 drawable ic_audiotrack_light
 drawable ic_baseline_calendar_today_24
@@ -2286,6 +2291,7 @@ id ad_image_view
 id ad_in_progress_label
 id ad_label
 id add
+id addMessageImageView
 id addtocalendarbutton
 id adjust_height
 id adjust_width
@@ -2525,6 +2531,9 @@ id match_parent
 id material
 id media_actions
 id message
+id messageEditText
+id messageRecyclerView
+id messageTextView
 id middle
 id mini
 id monochrome
@@ -2702,6 +2711,7 @@ id seek_bar_controls
 id select_dialog_listview
 id selected
 id selectionDetails
+id sendButton
 id share
 id shortcut
 id showCustom
@@ -2904,6 +2914,7 @@ layout cast_intro_overlay
 layout cast_mini_controller
 layout cast_tracks_chooser_dialog_layout
 layout cast_tracks_chooser_dialog_row_layout
+layout chat_item_other
 layout chat_item_self
 layout chat_item_watson
 layout custom_dialog
@@ -3991,6 +4002,7 @@ styleable CastIntroOverlay castBackgroundColor castButtonBackgroundColor castBut
 styleable CastMiniController castBackground castButtonColor castClosedCaptionsButtonDrawable castControlButtons castForward30ButtonDrawable castLargePauseButtonDrawable castLargePlayButtonDrawable castLargeStopButtonDrawable castMuteToggleButtonDrawable castPauseButtonDrawable castPlayButtonDrawable castProgressBarColor castRewind30ButtonDrawable castShowImageThumbnail castSkipNextButtonDrawable castSkipPreviousButtonDrawable castStopButtonDrawable castSubtitleTextAppearance castTitleTextAppearance
 styleable Chip android_textAppearance android_textColor android_ellipsize android_maxWidth android_text android_checkable checkedIcon checkedIconEnabled checkedIconTint checkedIconVisible chipBackgroundColor chipCornerRadius chipEndPadding chipIcon chipIconEnabled chipIconSize chipIconTint chipIconVisible chipMinHeight chipMinTouchTargetSize chipStartPadding chipStrokeColor chipStrokeWidth chipSurfaceColor closeIcon closeIconEnabled closeIconEndPadding closeIconSize closeIconStartPadding closeIconTint closeIconVisible ensureMinTouchTargetSize hideMotionSpec iconEndPadding iconStartPadding rippleColor shapeAppearance shapeAppearanceOverlay showMotionSpec textEndPadding textStartPadding
 styleable ChipGroup checkedChip chipSpacing chipSpacingHorizontal chipSpacingVertical selectionRequired singleLine singleSelection
+styleable CircleImageView civ_border_color civ_border_overlay civ_border_width civ_circle_background_color
 styleable CollapsingToolbarLayout collapsedTitleGravity collapsedTitleTextAppearance contentScrim expandedTitleGravity expandedTitleMargin expandedTitleMarginBottom expandedTitleMarginEnd expandedTitleMarginStart expandedTitleMarginTop expandedTitleTextAppearance maxLines scrimAnimationDuration scrimVisibleHeightTrigger statusBarScrim title titleEnabled toolbarId
 styleable CollapsingToolbarLayout_Layout layout_collapseMode layout_collapseParallaxMultiplier
 styleable ColorStateListItem android_color android_alpha alpha

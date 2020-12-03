@@ -25,6 +25,7 @@ MERGED from [:unityLibrary] C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\soun
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\e9866db0e44fb208ad171ce7ce5dd6df\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\ecca61be8776d74653e5351cde79c6ec\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\809aea522a44cea7ae41449ba0d506ba\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\7190935de7b04c68e0635af021eea06c\jetified-circleimageview-3.1.0\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.navigation:navigation-fragment:2.3.1] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\4a02695a4c8e0518af210bde58afa43c\navigation-fragment-2.3.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\005e44c66d6617ee6187fec3ce9c0f0d\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\3bc6f3bbf93775444d28a22f114f3449\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -211,6 +212,8 @@ MERGED from [:launcher-debug] C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\so
 MERGED from [:launcher-debug] C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\launcher-debug\build\.transforms\f3325139921c5b26551d184c13084b07\jetified-launcher-debug\AndroidManifest.xml:21:5-23:44
 MERGED from [:unityLibrary] C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\unityLibrary\build\.transforms\ac897456f8b0a65ab7fecb81ed77e243\jetified-unityLibrary\AndroidManifest.xml:27:5-49:19
 MERGED from [:unityLibrary] C:\Users\Jedd\Documents\School\GNG\GNG2501-2020\sounds\unityLibrary\build\.transforms\ac897456f8b0a65ab7fecb81ed77e243\jetified-unityLibrary\AndroidManifest.xml:27:5-49:19
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\7190935de7b04c68e0635af021eea06c\jetified-circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\7190935de7b04c68e0635af021eea06c\jetified-circleimageview-3.1.0\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\3b5da4e0e27bc0cfab2491eb8ecc3ece\jetified-play-services-auth-12.0.1\AndroidManifest.xml:22:5-37:19
 MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\3b5da4e0e27bc0cfab2491eb8ecc3ece\jetified-play-services-auth-12.0.1\AndroidManifest.xml:22:5-37:19
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\649c76c94005da395303105dd5e1e941\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
@@ -482,6 +485,8 @@ MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Jedd\.gradle\cac
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\ecca61be8776d74653e5351cde79c6ec\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\809aea522a44cea7ae41449ba0d506ba\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\809aea522a44cea7ae41449ba0d506ba\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\7190935de7b04c68e0635af021eea06c\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\7190935de7b04c68e0635af021eea06c\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.navigation:navigation-fragment:2.3.1] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\4a02695a4c8e0518af210bde58afa43c\navigation-fragment-2.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-fragment:2.3.1] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\4a02695a4c8e0518af210bde58afa43c\navigation-fragment-2.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Jedd\.gradle\caches\transforms-2\files-2.1\005e44c66d6617ee6187fec3ce9c0f0d\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44

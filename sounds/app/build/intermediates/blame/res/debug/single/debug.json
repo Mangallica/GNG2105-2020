@@ -132,12 +132,12 @@
         "source": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\src\\main\\res\\drawable\\heart_431__1_.png"
     },
     {
-        "merged": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_free_heart_icon_431_thumb.png.flat",
-        "source": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\src\\main\\res\\drawable\\free_heart_icon_431_thumb.png"
-    },
-    {
         "merged": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_search_button.png.flat",
         "source": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\src\\main\\res\\mipmap-hdpi\\search_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_free_heart_icon_431_thumb.png.flat",
+        "source": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\src\\main\\res\\drawable\\free_heart_icon_431_thumb.png"
     },
     {
         "merged": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\layout_eventfeed.xml.flat",
@@ -172,12 +172,16 @@
         "source": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\src\\main\\res\\layout\\resultlist_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_black_24dp.png.flat",
+        "source": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\src\\main\\res\\drawable\\ic_add_black_24dp.png"
     },
     {
         "merged": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_search_btn_bg.png.flat",
         "source": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\src\\main\\res\\mipmap-xhdpi\\search_btn_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
@@ -244,12 +248,12 @@
         "source": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\src\\main\\res\\layout\\chat_item_self.xml"
     },
     {
-        "merged": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_share_24.xml.flat",
-        "source": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\src\\main\\res\\drawable\\ic_baseline_share_24.xml"
-    },
-    {
         "merged": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_search_btn_bg.png.flat",
         "source": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\src\\main\\res\\mipmap-mdpi\\search_btn_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_share_24.xml.flat",
+        "source": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\src\\main\\res\\drawable\\ic_baseline_share_24.xml"
     },
     {
         "merged": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_face.png.flat",
@@ -318,6 +322,10 @@
     {
         "merged": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\drawable-small_heart_431__1_.png.flat",
         "source": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\src\\main\\res\\drawable-small\\heart_431__1_.png"
+    },
+    {
+        "merged": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_item_other.xml.flat",
+        "source": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\src\\main\\res\\layout\\chat_item_other.xml"
     },
     {
         "merged": "C:\\Users\\Jedd\\Documents\\School\\GNG\\GNG2501-2020\\sounds\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_search_button.png.flat",
