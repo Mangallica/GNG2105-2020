@@ -38,14 +38,14 @@
         android:layout_marginTop="104dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:src="@mipmap/default_user" />
+        tools:src="@mipmap/ic_face" />
 
     <EditText
         android:id="@+id/editTextTextMultiLine"
         android:layout_width="359dp"
         android:layout_height="57dp"
-        android:layout_marginStart="20dp"
-        android:layout_marginTop="32dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="36dp"
         android:ems="10"
         android:gravity="start|top"
         android:inputType="textMultiLine"
